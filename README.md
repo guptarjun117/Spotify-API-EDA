@@ -19,3 +19,9 @@ https://developer.spotify.com/documentation/web-api/reference/get-audio-features
 **Time Signature** - An estimated time signature. The time signature (meter) is a notational convention to specify how many beats are in each bar (or measure). The time signature ranges from 3 to 7 indicating time signatures of "3/4", to "7/4".
 
 ----
+
+**Insight 1:**
+
+Comparing original released metal albums with their re-released "Remastered" counterparts.
+Release of remastered albums is a hit or miss in the metal community. Either it will improve the quality if the orignal songs were poorly produced in the first place or decreased the quality of already well-produced song. Or, nothing.
+Many 
